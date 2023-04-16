@@ -59,7 +59,7 @@ output of this command:
     sudo lpinfo --include-schemes usb -l -v
 
 Then I'll be able to add a proper entry for your printer.
-
+**After my verification, Lenovo LJ2605D printer can use the HL2300D driver, no fault found
 
 Installation
 ------------
